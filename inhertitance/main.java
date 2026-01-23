@@ -8,9 +8,10 @@ public class main {
         // v.print();
         // bicycle b = new bicycle();
         // b.print();
-        car c = new car();
-        c.print();   //car class have print function so car class print function called
+        car c = new car(4);
+        //c.print();
+       // c.print();   //car class have print function so car class print function called
         //  if it doesnt then vehical class print function called
-        
+
     }
 }
